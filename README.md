@@ -1,5 +1,5 @@
 # Billboard
-#[![INSERT YOUR GRAPHIC HERE](https://www.greatschools.org/gk/wp-content/uploads/2012/12/How-can-we-stop-school-violence.jpg)]()
+#[![INSERT YOUR GRAPHIC HERE](https://upload.wikimedia.org/wikipedia/commons/2/2b/Billboard_Hot_100_logo.jpg)]()
 
 
 <!-- TABLE OF CONTENTS -->
